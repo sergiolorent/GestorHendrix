@@ -5,6 +5,10 @@
 
 ****************************************************************************************************************************************************************
 
+
+IMPORTANTE!!!!! El programa solo es compatible con distribuciones Linux. La version de Windows se desarrollara en un futuro.
+
+
 Instalacion (acciones opcionales pero recomendadas):
 
 - Se recomienda crear un enlace simbolico mediante el comando "sudo ln -s (ruta donde tienes el ejecutable de la aplicacion) /usr/local/bin" 
